@@ -10,5 +10,6 @@ public class forLoops
             //print each value as the loop iterates
             System.out.println("The value of the counter variable is: " + i);
         }
+        System.out.println("This is a test");
     }
 }
